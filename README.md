@@ -142,3 +142,5 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+## Debug
+<img  src="https://github.com/IDiegoUlises/Python-Reconocimiento-Facial/blob/main/Images/Imagen-De-Recuerdo.png">
